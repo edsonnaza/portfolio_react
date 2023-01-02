@@ -5,7 +5,7 @@ export const projects = [
     description:
       "During the pandemic time, I developed a WebApp solution that allows customers to request service at the company's reception through the system. Whose main purpose was created to avoid direct contact with the secretary at the reception. With this solution, 90% of the proposed objective was achieved.",
     image: "./smartreception2.gif",
-    link: "http://170.233.115.90:8585/novara/pages/index.php",
+    link: "#",
   },
 {
     title: "Contacts",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "It is a simple but complete application to control customer contacts. Data that can be consumed by the sellers of the company, in addition to providing a process of orders indicating the status in three types, pending, accepted and rejected. The application was created in PHP, Laravel and Mysql. Linux LAMP server.",
     image: "./Contacts.gif",
-    link: "http://170.233.115.90:8081/novara/pages/index.php",
+    link: "#",
   },
   {
     title: "React Tracks",
