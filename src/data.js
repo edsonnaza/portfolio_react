@@ -1,11 +1,11 @@
 export const projects = [
   {
     title: "Smart Reception",
-    subtitle: "PHP/Laravel/VUE/Linux LAMP",
+    subtitle: "PHP/Laravel/VUE/Linux LAMP.",
     description:
       "During the pandemic time, I developed a WebApp solution that allows customers to request service at the company's reception through the system. Whose main purpose was created to avoid direct contact with the secretary at the reception. With this solution, 90% of the proposed objective was achieved.",
-    image: "./smartreception.gif",
-    link: "http://170.233.115.90:8081/novara/pages/index.php",
+    image: "./smartreception2.gif",
+    link: "http://170.233.115.90:8585/novara/pages/index.php",
   },
 {
     title: "Contacts",
