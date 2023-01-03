@@ -6,7 +6,7 @@ export const projects = [
     description:
       "During the pandemic time, I developed a WebApp solution that allows customers to request service at the company's reception through the system. Whose main purpose was created to avoid direct contact with the secretary at the reception. With this solution, 90% of the proposed objective was achieved.",
     image: "./smartreception2.gif",
-    link: "https://reactbootcamp.com"
+    link: "https://reactbootcamp.com",
   },
 {
     title: "Contacts",
