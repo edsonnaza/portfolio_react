@@ -11,11 +11,11 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-           I’m a full stack web developer, with more than 8 years of experience, designing and developing web app   
+           I'm a full stack web developer, with more than 8 years of experience, designing and developing web app   
           solutions for all kinds of clients like hospitals ERP, startup companies, ERP for agribusiness, and many 
-          others, using  PHP, Laravel, MySQL, Linux LAMP, JavaScript, Vue’s, Amazon AWS. React, Docker and Node.js. 
+          others, using  PHP, Laravel, MySQL, Linux LAMP, JavaScript, Vue's, Amazon AWS. React, Docker and Node.js. 
           
-            Finally, I´m very enthusiastic and innovative and competent to help as I can to the teamwork to get the goals.
+            Finally, I'm very enthusiastic and innovative and competent to help as I can to the teamwork to get the goals.
          
 
           </p>
